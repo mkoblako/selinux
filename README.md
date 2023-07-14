@@ -2,7 +2,7 @@
 Для корректной работы требуется пакеты:
 policycoreutils-python, policycoreutils-devil
 Установка:
-Поместить instal-se.sh в одну папку с модулями и запустить с рут правами.
+Поместить install-se.sh в одну папку с модулями и запустить с рут правами.
 Или выполнить:
 semodule -DB
 semodule -i zabbix_agent.pp
