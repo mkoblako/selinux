@@ -1,1 +1,1 @@
-# selinux
+Модули SElinux для работы zabbix агента
